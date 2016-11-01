@@ -17,9 +17,9 @@ Copyright (C) 2016 The Android Open Source Project
 <resources>
     <string name="app_name" translatable="false">Neko Collector</string>
     <string name="notification_name" translatable="false">Android Neko</string>
-    <string name="default_cat_name" translatable="false">Cat #%s</string>
-    <string name="directory_name" translatable="false">Cats</string>
-    <string name="empty_dish" translatable="false">Empty dish</string>
+    <string name="default_cat_name">Cat #%s</string>
+    <string name="directory_name">Cats</string>
+    <string name="empty_dish">Empty dish</string>
     <string name="about">About</string>
     <string name="about_caps">ABOUT</string>
     <string name="about_text">This is based on Android Nougat\'s Easter Egg and made available for older android versions.</string>
@@ -27,7 +27,7 @@ Copyright (C) 2016 The Android Open Source Project
     <string name="credits">Credits: Android Open Source Project by Google</string>
     <string name="not_again">Don\'t show this again.</string>
     <string name="close_app">You can exit the app now. A cat will come soon.</string>
-    <string-array name="food_names" translatable="false">
+    <string-array name="food_names">
         <item>Empty dish</item>
         <item>Bits</item>
         <item>Fish</item>
